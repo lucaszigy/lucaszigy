@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋eu sou o lucas e estou estudando no github na diciplina pensamento compiutacional
+no momento estou trabalhando no github
+
 
 <!--
 **lucaszigy/lucaszigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
